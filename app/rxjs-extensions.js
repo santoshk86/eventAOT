@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+// Observable class extensions
+require("rxjs/add/observable/of");
+require("rxjs/add/observable/throw");
+// Observable operators
+require("rxjs/add/operator/catch");
+require("rxjs/add/operator/do");
+require("rxjs/add/operator/filter");
+require("rxjs/add/operator/map");
+//# sourceMappingURL=rxjs-extensions.js.map
